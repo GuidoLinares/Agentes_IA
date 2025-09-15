@@ -1,0 +1,9 @@
+# Entorno Virtual
+venv/
+
+# Archivos de entorno (contiene API keys!)
+.env
+
+# Carpetas de caché de Python
+__pycache__/
+*.pyc
